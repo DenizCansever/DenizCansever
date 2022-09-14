@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <a href="https://twitter.com/denizevenstar"><img src="https://img.shields.io/twitter/follow/denizevenstar?style=social" alt="Twitter Badge"></a>
-<a href="twitch.tv/evenstar"><img src="https://img.shields.io/twitch/status/evenstar?style=social" alt="Twitch Badge"></a>
+<a href="https://twitch.tv/evenstar"><img src="https://img.shields.io/twitch/status/evenstar?style=social" alt="Twitch Badge"></a>
 </p>
 
 <h1 align="center">Welcome my lords and ladies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
