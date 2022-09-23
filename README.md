@@ -18,6 +18,7 @@ I am a Frontend Developer from Turkey. ☕
 
 - 🔭 My main focus is improving my skills on React.
 - 🌟 In my free time I play chess and read tech articles.
+- 💍 I am a big fan of Lord of The Rings Series.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/deniz--cansever-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/deniz-cansever)
 
 ---
@@ -55,6 +56,7 @@ I am a Frontend Developer from Turkey. ☕
 ### ✍️ Repos that I'm currently working on:
 
 - [Created workPlace for React to store all code examples and tech articles on different topics from beginner to advanced level](https://github.com/DenizCansever/ReactWorkPlace)
+- [Translating Design Patterns from English source to Turkish](https://github.com/baristunar/design-patterns-tr)
 - [Refactored MonsterKillerGame Project from Udemy Course](https://github.com/DenizCansever/MonsterKillerGame)
 - [Created TicTacToe Game with using React](https://github.com/DenizCansever/TicTacToe)
 - [Refactored my old school SimpleCalculator Project with using Vanilla.js](https://github.com/DenizCansever/SimpleCalculator)
