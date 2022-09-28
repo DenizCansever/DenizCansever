@@ -51,6 +51,8 @@ I am a Frontend Developer from Turkey. ☕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcansever&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/DenizEvenstar"><img src="https://api.daily.dev/devcards/702c30cf09d64f748537b2ef9979cd5b.png?r=796" width="350" alt="Deniz Cansever's Dev Card"/></a>
+
 ---
 
 ### ✍️ Repos that I'm currently working on:
